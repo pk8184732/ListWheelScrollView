@@ -1,0 +1,2 @@
+# ListWheelScrollView
+itemExtent,useMagnifier,magnification,withOpacity
